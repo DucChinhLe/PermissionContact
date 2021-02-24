@@ -1,0 +1,18 @@
+<resources>
+    <!-- string name -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">FA_Lession9_Ex1_2_ChinhLD4</string>
+
+    <!--main text button -->
+    <string name="main_button_read_contact_text">Read Contacts</string>
+    <string name="main_button_write_contact_text">Add Contacts</string>
+
+    <!--fragment write contact-->
+    <string name="write_contacts_add_contact_text">Add contact</string>
+    <string name="write_contact_edittext_hint">name contact</string>
+    <string name="write_contact_edittext_number_phone">phone number</string>
+    <string name="write_contact_edittext_email_hint">email contact</string>
+    <string name="write_contact_button_text">Add</string>
+
+
+</resources>

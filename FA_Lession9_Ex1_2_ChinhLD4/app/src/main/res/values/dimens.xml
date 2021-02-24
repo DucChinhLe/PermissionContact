@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--main activity button-->
+    <dimen name="main_linearLayout_button_margin">10dp</dimen>
+    <dimen name="main_button_write_contact_margin">10dp</dimen>
+
+    <!--main activity frame layout-->
+    <dimen name="main_frameLayout_margin">10dp</dimen>
+
+    <!--row contact image-->
+    <dimen name="row_contact_image_width">65dp</dimen>
+    <dimen name="row_contact_image_height">65dp</dimen>
+
+    <!--fragment write contact-->
+    <dimen name="write_contact_linear_padding">20sp</dimen>
+    <dimen name="write_contact_textview_size">30sp</dimen>
+    <dimen name="write_contact_button_margin">20sp</dimen>
+
+</resources>
